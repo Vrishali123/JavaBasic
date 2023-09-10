@@ -1,7 +1,7 @@
 package com;
 
 /**
- * @author Vrishali More
+ * @author Vrishali
  *
  */
 
